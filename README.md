@@ -26,22 +26,30 @@ These courses gave me a strong foundation in Python, web APIs, and data extracti
 
 ---
 
-## 🧰 Projects I've Built
+🧰 Projects I’ve Built
 
 Here are some real-world tools I created to sharpen my skills and solve practical problems:
 
-### 🛒 [`jumia_phone_tracker`](https://github.com/Abassowolabi/jumia-phone-tracker)  
+🛒 jumia_phone_tracker
+
 A Scrapy-based crawler that scrapes mobile phone listings from Jumia Nigeria and stores them in MongoDB. Built to monitor price trends and new listings for deal hunters.
 
-### 🌍 [`ladies_details_scraper`](https://github.com/Abassowolabi/ladies_details_scraper)  
+🌍 ladies_details_scraper
+
 A Selenium-based scraper that extracts usernames and phone numbers from ladies.de, handling dynamic content, regional filters, cookie popups, and pagination.
 
-### 📈 [`trending_crypto_tracker`](https://github.com/Abassowolabi/trending_crypto_tracker)  
+📈 trending_crypto_tracker
+
 A terminal script that pulls the top 30 crypto gainers using the Coingecko API, saves snapshots as JSON, and generates clean bar charts of 24-hour price changes.
 
-### 🔧 [WIP] Konga Product Scraper + Lite Web App  
-Currently building a Scrapy + Splash scraper for Konga.com to collect product data and power a lightweight search-based web app using MongoDB for storage.  
-*(Repository coming soon)*
+🏠 real-estate-scraper-nigeria-property-centre
+
+A Playwright-powered scraper that extracts detailed house listings (price, specs, agent info, and more) from Nigeria Property Centre. Built to simplify real estate data collection for Lagos properties and save results to JSON and CSV.
+
+🛒 konga_product_scraper
+
+A Scrapy scraper that pulls product listings from Konga.com with full pagination support. Stores structured data in MongoDB and is designed for integration with a lightweight search-based web app.
+
 
 ---
 
